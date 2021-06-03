@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The schedvle In this schedvle is contained the excise, set and to be set upon severall commodities, as well forreign as native, as hereafter followeth.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 44KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94241</idno><idno type="EEBO-CITATION">99899303</idno>
+  <idno type="VID">152978</idno>
+  <idno type="EEBO-PROQUEST">2240849624</idno>
+  
+            <idno type="STC">Wing S849A</idno>
+            <idno type="STC">ESTC R183262</idno>
+            <idno type="PROQUEST">99899303</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99899303e"/>
+            <note>(EEBO-TCP ; phase 2, no. A94241)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152978)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2338:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The schedvle In this schedvle is contained the excise, set and to be set upon severall commodities, as well forreign as native, as hereafter followeth.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+               </titleStmt>
+               <extent>[8], 18 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Robert Barker, and John Bill, printers to the Kings most excellent Majesty,</publisher>
+                  <pubPlace>Bristoll :</pubPlace>
+                  <date>M DC. XLIIII. [1644]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Identified as Wing S849A, reel 2338, of the UMI microfilm set "Early English books 1641-1700".</note>
+                  <note>Cf. Wing S849A which has date of "1944 [i.e. 1644]".</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Excise tax --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152978:1"/>
+            <p>The Schedule.</p>
+            <p>IN THIS SCHEDVLE IS CONTAINED THE EXCISE, SET AND TO BE SET UPON Severall Commodities, as well Forreign as Native, as hereaf<g ref="char:EOLhyphen"/>ter followeth.</p>
+            <p>BRISTOLL, Printed by ROBERT BARKER, and JOHN BILL, Printers to the Kings most Excel<g ref="char:EOLhyphen"/>lent Majesty: MDC.XLIIII.</p>
+         </div>
+         <div type="document">
+            <pb facs="tcp:152978:2"/>
+            <pb facs="tcp:152978:2"/>
+            <p>
+               <hi>CHARLES</hi> by the grace of God, King of <hi>Eng<g ref="char:EOLhyphen"/>land, Scotland, France</hi> and <hi>Ireland,</hi> Defender of the Faith, &amp;c. To Our trusty and wel-beloved <hi>Arthur Basset</hi> Esq; <hi>George Parry</hi> Doctor of the Laws, <hi>Peter Sainthill</hi> Esq; and <hi>Richard Ward</hi> Esq; greeting. Whereas We have been, and still are enforced to raise and maintain severall Armies for the defence of the true Protestant Religion, Our own Royall Person and just Rights, the Laws of the Land, the Liberties and Properties of Our Subjects, and Priviledges of Parliament, for the resistance of the present Invasion of the Scots, and for sup<g ref="char:EOLhyphen"/>pression of this their horrid Rebellion raised a<g ref="char:EOLhyphen"/>gainst Vs, the charge whereof is so vast that We are no way able (Our own Revenues and Customs being detained from Vs &amp; by the Rebels employed for maintenance of those Forces which they have raised against Vs) to destroy the same, without the <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>sistance of Our good Subjects: And whereas at a Councell of War held at <hi>Oxford</hi> the <hi>28.</hi> day of <hi>December</hi> last past, it was presented unto Vs by the Lords and others of Our said Councell then pre<g ref="char:EOLhyphen"/>sent, That the Rebels at <hi>London,</hi> and other parts of this Kingdom in their power (to maintain and continue their horrid and barbarous Rebellion) had laid an Excise upon severall Wares and Com<g ref="char:EOLhyphen"/>modities whereby they raise great summes of Mo<g ref="char:EOLhyphen"/>ney for the payment of their Rebellious Forces, and thereby encourage and keep them together; And it was therefore by the generall consent and
+<pb facs="tcp:152978:3"/> desire of the principall Officers of Our Army, thought most necessary, that We should be prayed speedily to lay an Excise upon Wares and Commo<g ref="char:EOLhyphen"/>dities in the like nature, whereby Money may be Levyed for the payment of Our Army raised for Our own defence, and reducing Our Subjects to their due Obedience. And although upon due con<g ref="char:EOLhyphen"/>sideration had by Vs thereon, We found Our selves necessitated to take some speedy course for raising of Moneys for these purposes, yet We thought fit to forbear putting the said Advice in Execution till We had communicated the same to the Lords and Commons of Parliament assembled at <hi>Oxford</hi> by vertue of Our Proclamation, to the end that with their advice the said Excise might with most indif<g ref="char:EOLhyphen"/>ferency and ease to Our People be Rated and Le<g ref="char:EOLhyphen"/>vyed; And the said Lords and Commons taking into their serious Considerations the meanes how to support and maintain Our Armies, could not finde any way whereby that Charge might be so equally born by Our Subjects as by laying an Excise upon sundry Wares and Commodities for that purpose, Yet withall humbly desireth that He would not continue the said Excise for any longer time then during the present necessity, and whilest the Rebels at <hi>London</hi> continue the Excise laid by them, that We would determine the Excise laid whensoever We should be thereunto desired by the Lords and Commons, and ease Our People of the Contribution now paid in part or in whole, so soon as by this way We should have Moneys sufficient to maintain Our said Armies; and that We should be pleased graciously to declare, That the setling &amp; laying the said Excise is done meerly for Necessity,
+<pb facs="tcp:152978:3"/> and that the Moneys raised thereby shall be em<g ref="char:EOLhyphen"/>ployed onely for payment and maintenance of Our Army, and shall be disposed from time to time in such sort as shall be advised by the said Lords and Commons, or such as they nominate, and no other<g ref="char:EOLhyphen"/>wise; And that We declare and also promise Our Royall assent to an Act whereby it may be declared and Enacted in a full and free convention of Par<g ref="char:EOLhyphen"/>liament, That Our doing therein shall not be drawn into president or example in time to come, nor to be made use of mentioned, or urged as a pre<g ref="char:EOLhyphen"/>sident, nor any other advantage taken thereon in prejudice of the right and property of Our Sub<g ref="char:EOLhyphen"/>jects for the future; And lastly, That the said Excise might be set, ordered, and governed in such a sort and Instructions as should be approved or appoint<g ref="char:EOLhyphen"/>ed by the said Lords and Commons, and not other<g ref="char:EOLhyphen"/>wise. Know ye therefore, that in pursuance of the said desires, all which We do approve, and there<g ref="char:EOLhyphen"/>unto give Our full Promise and Consent, have ordered and appointed, and by these presents do order and appoint that an Excise shall be laid and set, and We do by these presents lay and set an Ex<g ref="char:EOLhyphen"/>cise upon the severall Wares and Commodities expressed and contained in the Schedule to these presents annexed, and according to the severall and respective rates and values therein limited and set down to be paid, the same to be raised, levied, paid, and disposed in such sort and manner as in the said Schedule is contained, and according to the Ar<g ref="char:EOLhyphen"/>ticles and Instructions thereunto adjoyned: And for the due execution hereof We have nominated, appointed, authorized, and by these presents do nominate, appoint, and authorize You to be Our
+<pb facs="tcp:152978:4"/> Commissioners within Our County of <hi>Devon,</hi> for the levying, collecting, and gathering the said Ex<g ref="char:EOLhyphen"/>cise according to the rates &amp; values set down and prescribed in the said Schedule, and according to the Articles and Instructions therewithall now sent, or hereafter to be sent by the approbation of the said Lords and Commons, or such as they shall authorize for that purpose, and not otherwise. And We by these presents give full power and authority unto you Our said Commissioners, or the greater nu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ber of you, writing under your Hands and Seales from time to time, to nominate and ap<g ref="char:EOLhyphen"/>point such and so many Substitutes or Deputies within Our said County, Towns corporate, Di<g ref="char:EOLhyphen"/>visions, or other part or parts of Our said County, as to you, or the greater number of you think sit and convenient; And also in like manner to name, make, and appoint such and so many Registers, Clerks, Collectors, and other inferiour Officers and Ministers for the better execution of the said service, as to you or the greater number of you shall seem meet; all which are to be chosen and govern<g ref="char:EOLhyphen"/>ed as is directed in the Instructions hereunto an<g ref="char:EOLhyphen"/>nexed. And Our further Will and Pleasure is, That you Our said Commissioners, or any of you shall not intermeddle or do any thing in the premisses by vertue of these presents, untill such time as you and every of you shall take the Oath in the said In<g ref="char:EOLhyphen"/>structions set down for the due execution of that Office, before two Iustices of the Peace or more for the said County of <hi>Devon;</hi> which Oath We do hereby give full power and authority unto the Iu<g ref="char:EOLhyphen"/>stices of the Peace of Our said County of <hi>Devon,</hi> or any two or more of them, to give and administer
+<pb facs="tcp:152978:4"/> unto you and every of you; by vertue of these pre<g ref="char:EOLhyphen"/>sents, without further or other Warrant in that behalf, and after such time as you Our said Com<g ref="char:EOLhyphen"/>missioners have taken the said Oath, We do hereby give full power to you, or the greater number of you to give and administer the like Oath to all eve<g ref="char:EOLhyphen"/>ry such Substitutes and Deputies as you shall make and appoint as aforesaid, before they or any of them do intermeddle in the execution of the said prem<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sses; And do likewise by these presents give full power and authority to you Our said Commis<g ref="char:EOLhyphen"/>sioners, or any two or more of you, and also to such Substitutes and Deputies as you shall make and appoint in manner aforesaid, or any two or more of you, from time to time, to give and administer the severall Oaths in the said Instructions specially mentioned to all and every such person and persons as are therein and thereby named and appointed to take the same, in such sort as in the said Instructi<g ref="char:EOLhyphen"/>ons is expressed. And further, That you Our said Commissioners, or any one of you, and also the said Substitutes and Deputies, or any one of them shall, and may from time to time give and admini<g ref="char:EOLhyphen"/>ster an Oath upon the holy Evangelists to all such persons and Witnesses as may, or will inform or discover unto you any deceipt or other abuse touch<g ref="char:EOLhyphen"/>ing the said Excise, contrary to the said Instructi<g ref="char:EOLhyphen"/>ons, or any of them. And We do further signifie and declare to all Our good Subjects, That the said Excise, by vertue of these presents, to be laid and imposed upon the severall Wares and Commodi<g ref="char:EOLhyphen"/>ties in the said Schedule mentioned, is to be paid, and shall continue untill the Feast of the Annunci<g ref="char:EOLhyphen"/>ation of our blessed Lady St. <hi>Mary</hi> the Virgin,
+<pb facs="tcp:152978:5"/> which shall be in the yeer of our Lord <hi>1645.</hi> in case that the Excise laid by the Rebels at <hi>London</hi> shall so long continue, and that the same shall be deter<g ref="char:EOLhyphen"/>mined before that time if We shall be advised by the said Lords and Commons sooner to lay down the same.</p>
+            <closer>
+               <dateline>
+                  <hi>In Witnesse whereof We have caused these Our Let<g ref="char:EOLhyphen"/>ters to be made Patents;</hi> Witnesse Our self, at <hi>Oxford</hi>
+                  <date>the 8. day of <hi>May,</hi> in the Twentieth yeer of Our Reign.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:152978:5"/>
+            <head>In this Schedule is contained the <hi>Excise,</hi> set and to be set upon severall Commodities, as well Forreign as Native, as hereafter followeth, <hi>viz.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He Forreign Commodities following, as well Imported and remaining in the hands of the Merchant, Importer, Re<g ref="char:EOLhyphen"/>tailer, or any other whatsoever, as to be imported, are charged to pay by the first Buyer thereof from the Merchant, Retailer, Importer, or other persons as aforesaid, the severall Rates here ensuing, over and above all the Contributions paid for the same at the first landing thereof.</p>
+            <list>
+               <item>Spanish and all Tobaccoes, not of the English Plantations, the pound 2. s</item>
+               <item>Tobacco of the English Plantations the pound 4. d</item>
+               <item>Wines of all sorts the Tonne 5. l</item>
+               <item>Strong-Waters, as, Aqua-vitae, Vsquebaugh, and the like, the Gallon 8. d</item>
+               <item>Raisons solis the hundred weight 2. s</item>
+               <item>All other Raisons the hundred weight 16. d</item>
+               <item>Figges the hundred weight 12. d.</item>
+               <item>Almonds, the hundred weight 5. s.</item>
+               <item>Anny seeds, the hundred weight 21 d.</item>
+               <item>Cloves, the pound 4. d.</item>
+               <item>Currans, the hundred weight 6. d.</item>
+               <item>Ginger, the hundred weight 5. d.</item>
+               <item>Licoras, the hundred weight 12. d.</item>
+               <item>Maces, the pound 6. d.</item>
+               <pb n="2" facs="tcp:152978:6"/>
+               <item>Nutmeg, the pound 3. d.</item>
+               <item>Pepper, the pound 2. d.</item>
+               <item>Cinnamon, the pound 4. d.</item>
+               <item>Prunes, the hundred weight 8. d.</item>
+            </list>
+            <div type="part">
+               <head>Sugars Vocat.</head>
+               <list>
+                  <item>Sugar-Candy brown or white, the pound 3. d.</item>
+                  <item>Punelli and St. Thome<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the hundred weight 2. s. 6. d.</item>
+                  <item>Muscovadoes, the hundred weight 3. s. 4 d.</item>
+                  <item>White, the hundred weight 6. s. 8. d.</item>
+                  <item>Refined double or single, the hundred weight 9. s. 4. d.</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Drugges.</head>
+               <list>
+                  <item>Drugges of all sorts imported, or to be imported, for 20. s. value thereof, and so after that rate for a greater or lesser value to be paid by the first Buyer thereof, from the Mer<g ref="char:EOLhyphen"/>chant or Importer, twelve pence 12. d.</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Mercery.</head>
+               <list>
+                  <item>For all sorts of Mercery Wares Imported, or to be Im<g ref="char:EOLhyphen"/>ported, for every 20. s. value thereof, and so proportion<g ref="char:EOLhyphen"/>ably for a greater or lesser value, to be paid by the first Buyer thereof from the Merchant or Importer, twelve pence 12. d.</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Silkes Imported.</head>
+               <list>
+                  <item>For all raw Silke imported, or to be imported, for every 20. s. value thereof, and so proportionably for a greater or lesser value, six pence 6. d.</item>
+                  <item>For other Silkes in the Gumme ready thrown, imported or to be imported, for every 20. shillings value thereof, and so proportionably, nine pence 9. d.</item>
+                  <item>For all other Silkes dyed, imported or to be imported, for every 20. shillings value thereof, and so proportionably the severall rates for Silkes, to be paid by the first Buyer thereof, from the Merchant and Importer 12. d.</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Linnen Drapery.</head>
+               <list>
+                  <item>For all sorts of Linnen both fine and course, imported and to be imported, for every 20. shillings value thereof,
+<pb n="3" facs="tcp:152978:6"/> and so proportionably to be paid by the first Buyer thereof from the Merchant or Importer, twelve pence 12. d.</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Haberdashery.</head>
+               <list>
+                  <item>For all sorts of Haberdashery Wares imported or to be imported, for every 20. shillings value thereof, and so pro<g ref="char:EOLhyphen"/>portionably to be paid by the first Buyer thereof, from the Merchant or Importer, twelve pence 12. d.</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Vpholstery.</head>
+               <list>
+                  <item>For all sorts of Vpholstery Ware imported and to be imported, for every 20. s. value thereof, and so proportion<g ref="char:EOLhyphen"/>ably, to be paid by the first Buyer thereof, from the Mer<g ref="char:EOLhyphen"/>chant or Importer, twelve pence 12. d.</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Saltery.</head>
+               <list>
+                  <item>For all sorts of Saltry Wares imported and to be im<g ref="char:EOLhyphen"/>ported, for every 20. s. value thereof, and so proportionably to be paid by the first Buyer thereof, from the Merchant or Importer, six pence. 6 d.</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Soape.</head>
+               <list>
+                  <item>For all Soape imported or to be imported, for every 20. s. value thereof, and so proportionably, to be paid by the first Buyer thereof from the Merchant or Importer, eighteen pence 18. d.</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Paper.</head>
+               <list>
+                  <item>For all Paper bought of the Mercchant, for every 20. s. value thereof, and so proportionably to be paid by the first Buyer from the Merchant or Importer, twelve pence 12. d.</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Hides, Skinnes and Leather.</head>
+               <list>
+                  <item>For all Skins, Hides, and Leather imported, or to be im<g ref="char:EOLhyphen"/>ported, for every 20. s. value thereof, and so proportionably to be paid by the first Buyer thereof from the Merchant or Importer, twelve pence 12. d.</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Glasses.</head>
+               <list>
+                  <item>For all Glasses and Earthen Ware imported, for every 20. s. value thereof, and so proportionably to be paid by
+<pb n="4" facs="tcp:152978:7"/> the first Buyer thereof, from the Merchant or Importer, twelve pence 12 d.</item>
+                  <item>Iron in Barres of all sorts the Tonne 10 s.</item>
+                  <item>All Cast Iron the hundred weight 10. d.</item>
+                  <item>Iron Hoopes the hundred weight 18. d.</item>
+                  <item>Kettle-Bands the hundred weight 2. s.</item>
+                  <item>Iron wrought, the pound ob.</item>
+                  <item>Oyle called Linseed and Rape Oyle, the Tonne 20. s.</item>
+                  <item>All sorts of Oyle Olive, the Tonne 32 s.</item>
+                  <item>Traine Oyle of all sorts, the Tonne 6. s. 8. d.</item>
+                  <item>Salt Forreign, the Gallon 1. d.</item>
+                  <item>All Lace of what kinde soever of Silke, Gold, Silver or mixed, or of Threed, and all Ribbands, imported in every 20. s. value, to pay 2. s.</item>
+                  <item>Bever Wooll the pound 2 s.</item>
+                  <item>For every Beuer skinne 6. d.</item>
+                  <item>Sable skins the Timber containing 10. l. skins 30. s.</item>
+                  <item>Cotton Wooll the hundred weight 3. s.</item>
+                  <item>Cotton Yearne the hundred weight 4. s</item>
+                  <item>Irish Wooll Combed the pound 1. d.</item>
+                  <item>Irish Wooll Combed the hundred weight 2. s. 6. d</item>
+                  <item>Lambes Wooll, the hundred weight 2. s. 6. d</item>
+                  <item>Polonia Wooll, the hundred weight 2. s. 6. d</item>
+                  <item>Spanish Wooll for Clothing, the hundred weight 4. s</item>
+                  <item>Spanish Felt-Wooll, the hundred weight 3. s</item>
+                  <item>Red Wooll, the pound 2 d</item>
+                  <item>Iron Wyre, the hundred weight 5. s</item>
+                  <item>Latin Wyre, the hundred weight 6. s. 8. d</item>
+                  <item>Steele Wyre, the pound 2. d</item>
+                  <item>Steele of all sorts, the pound ob.</item>
+                  <item>Linnen Yarne imported, the pound ob.</item>
+                  <item>Lace of Gold or Silver, or mixed silk, home made, the ounce 6. d</item>
+                  <item>Button of Gold or Silver, or mixed with silk, Forreign or home made, in every 20. s. value 2. s</item>
+               </list>
+            </div>
+            <div type="part">
+               <pb n="5" facs="tcp:152978:7"/>
+               <head>Home or Native Commodities</head>
+               <list>
+                  <item>1 For all strong-waters and Aqua-vitae made or distilled within this Realm and Dominion of <hi>Wales,</hi> to be paid by the Maker or Distiller after the rate of 8 d. the gallon 8. d</item>
+                  <item>2 For every Barrell of Meade or Metheglin either sold or spent, and so proportionably be the quantity greater or lesse, to be paid by the first Seller thereof 5. s</item>
+                  <item>3 For every Barrell of Beere or Ale of eight shillings the Barrell and upward, sold to be paid by the Brewer or Maker thereof 2. s</item>
+                  <item>4 For every Barrell of Beere or Ale of six shillings the Barrell and upward, under Eight sold to be paid by the Brewer or Maker thereof 1. s</item>
+                  <item>5 For every Barrell of Beere or Ale of every value under six shillings to three sold to be paid by the Brewer or Maker thereof, and so after that proportion, be the Cask or Vessell greater or lesser, six pence 6. d</item>
+                  <item>6 For every Quarter of Malt, except Oaten Malt, made to be sold, and so proportionably 2. s</item>
+                  <item>7 For every Quarter of Oaten Malt made to be sold 1. s. 4. d. and that every person that makes Malt, and with it brews Beere or Ale to sell, shall pay in the same proportion for his Malt, as if it were bought.</item>
+                  <item>8 For every Hogshead of Perry or Cider sold, to be paid by the first Retayler thereof, and so after that rate for a greater or lesser proportion of Caske, two shillings 2. s</item>
+                  <item>9 For every Hogshead of Perry or Cider bought for private use, to be paid by the first Buyer thereof 12. d. and after the same race for a greater or lesser quantity 12. d</item>
+                  <item>10. For all Beere, Ale, Perry or Cider to be necessarily used for fishing at Sea by English Subjects, to be orderly laid on Sipboard for that purpose, no Excise to be paid.</item>
+                  <item>11 For all sorts of Wooll<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n Cloath, and other Commo<g ref="char:EOLhyphen"/>dities made of or mixt with Wooll, made or spent within
+<pb n="6" facs="tcp:152978:8"/> this Realm and the Dominion of <hi>Wales,</hi> for every twenty shillings value thereof, and so proportionably, to be paid by the first Buyer thereof, twelve pence 12. d</item>
+                  <item>12 For all Salt made within the Kingdom of <hi>England</hi> and Dominion of <hi>Wales,</hi> to be paid a penny upon every Gallon; and that all Salt upon Salt, that is made of Salt within the said Kingdom of <hi>England</hi> and Dominion of <hi>Wales,</hi> which hath once paid the Excise, shall pay one half penny upon every Gallon, to be paid by the Maker of all such Salt, before such time as the said Salt shall be put to sale. And that all other Salt upon Salt imported, or to be imported into the said Kingdom of <hi>England</hi> and Domini<g ref="char:EOLhyphen"/>on of <hi>Wales,</hi> shall pay one penny half penny upon every Gallon, to be paid by the first Buyer of such Salt, Provided alwayes, that no Salt expended upon Fishing by English Subjects shall be liable to this Excise.</item>
+                  <item>13 That all Beeves, Muttons, Veales, Porkes, Lambs, and other Butchers meat, to be killed for provision of Vi<g ref="char:EOLhyphen"/>ctuals, shall pay one shilling in every twenty shillings value of the Beast living, by the Butcher, and so after that pro<g ref="char:EOLhyphen"/>port<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>on.</item>
+                  <item>14 That all Conies or Rabbets shall pay an half penny a peece, to be paid by the first Seller.</item>
+                  <item>15 That all Pigeons shall pay after the rate of one penny for every dozen, to be paid by the first Seller thereof.</item>
+                  <item>16 That White-bread made of Wheat, shall pay one penny in every twelve pence value, by the Baker or maker thereof selling the same.</item>
+                  <item>17 That for all Beeues, Muttons, Veales, Porkes, Lambs and other Butchers-meat killed for provision of private mens houses, the Excise to be paid, as by the Butcher is ap<g ref="char:EOLhyphen"/>pointed.</item>
+                  <item>18 For all Soape made within this Realm and Domini<g ref="char:EOLhyphen"/>on of <hi>Wales,</hi> for every pound of Soape to be paid by the Maker thereof ob.</item>
+                  <pb n="7" facs="tcp:152978:8"/>
+                  <item>19 English Iron Wyre of all sorts in every 20. s. value to be paid by the Maker or first Seller thereof 12. d.</item>
+                  <item>20 English brasse Wyre of all sorts in every 20 s. value to be paid by the Maker or first Seller thereof 12. d.</item>
+                  <item>21 That there shall be imposed by way of Excise, halfe penny in the pound upon Butter, and a farthing of a penny the pound upon Cheese, to be paid by the first Seller there<g ref="char:EOLhyphen"/>of, of all Butter and Cheese sold throughout <hi>England,</hi> and in the Dominion of <hi>Wales,</hi> halfe that proportion. That the Commissioners for Excise shall have power to compound with the Sellers of Butter and Cheese, as in the last Instru<g ref="char:EOLhyphen"/>ction for private Families.
+<list>
+                        <item>All which rates to be paid for any Forraign Commodi<g ref="char:EOLhyphen"/>ties imported, shall be paid by the first Buyer thereof from the Merchant or Importer, or from the Broker who useth to deale between the Merchant and the Shop-keeper. And for all other Commodities hereby charged with Excise, the Rates to be paid in such manner as in the Schedule or the Articles following is directed.</item>
+                        <item>And for the better ordering, Collecting and disposing of the Excise laid and appointed according to the rates aforesaid, the Commissioners hereafter named, and to be named, are to observe and to persue the In<g ref="char:EOLhyphen"/>structions following.</item>
+                     </list>
+                  </item>
+               </list>
+               <p n="1">1 That every person and persons who have imported, or shall import, or cause to be imported, any Commodi<g ref="char:EOLhyphen"/>ties in the aforegoing Schedule mentioned, for his or their own private vse or spending, or for any other purpose, shall pay the rates in the said Schedule set and imposed upon the same Commodities.</p>
+               <p n="2">2 <hi>Item,</hi> for all Commodities here rated, which are or shall be first imported, and after, within six mon<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ths, ex<g ref="char:EOLhyphen"/>ported beyond the Seas, the Excise thereof being paid, and due proof thereof made by Oath of the Party or Wit<g ref="char:EOLhyphen"/>nesses
+<pb n="8" facs="tcp:152978:9"/> before the said Commissioners or any two of them, or any two of such as they shall appoint under their Hands and Seales, shall be repaid, and the said Commissioners and their Deputies shall have power to repay the same accord<g ref="char:EOLhyphen"/>ingly. And if any Merchant or other Buyer of any Clothes, or other woollen Commodities, made within this Realm or Dominion of <hi>Wales,</hi> shall buy the same to transport be<g ref="char:EOLhyphen"/>yond <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Seas, and shall accordingly transport the same, then no Excise thereof to be paid.</p>
+               <p n="3">3 <hi>Item,</hi> that there shall be an Office erected in the City of <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> or elsewhere, as shall be appointed by His Majesty, to be called the <hi>Office of Excise,</hi> and that there shall be five Commissioners to be nominated by His Majesty, to govern the Affaires and Service appertaining to this Ex<g ref="char:EOLhyphen"/>cise, whereof one to be Treasurer Generall to receive all the money arising by the said Excise, and one other of them to be Comptroller thereof, the which Commissioners so named are to reside at <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> or where else His Majesty shall appoint; and that they the said Commis<g ref="char:EOLhyphen"/>sioners, or the major part of them, or their sufficient De<g ref="char:EOLhyphen"/>puties, shall have power to execute these Instructions as Commissioners in the <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> And shall be authorized from time to time to chuse Regi<g ref="char:EOLhyphen"/>sters, Collectors, Clerks, Surveyors, Deputies, Search<g ref="char:EOLhyphen"/>ers, and other subordinate Officers, and them to employ for their assistance in the execution of the said Office and Services, taking good security of them for their diligence and faithfull demeanor therein, and also swearing them ac<g ref="char:EOLhyphen"/>cording to the form of an Oath hereafter prescribed, with like power to displace them, if they finde cause, and to place others in their rooms, and to allow and pay unto them such wag<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s out of the Receipts of this Excise for their paines and service therein, as the said Commissioners or
+<pb n="9" facs="tcp:152978:9"/> the greater part of them shall thi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k fit and reasonable, and as shall be approved and allowed by the Lords and Com<g ref="char:EOLhyphen"/>mons of Parliament here assembled, or such others as shall be thereunto authorized by them.</p>
+               <p n="4">4 <hi>Item,</hi> That the Commissioners herein after named, shall be, and are her<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>by nominated and appointed to be chief Commissioners, or Governours of th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Affaires of the said Excise, <hi>viz.</hi>
+               </p>
+               <p n="5">5 <hi>Item,</hi> That the said Commissioners, hereby or here<g ref="char:EOLhyphen"/>after to be appointed in the severall Cities and Counties, the Treasurer and Comptroller, and all other the Inferiour Officers, and Ministers shall respectively, before they enter upon their Office or Imployment assigned unto them, take an Oath hereafter exprest, ac<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ording as by the Commission is appointed, for the due execution of their severall and re<g ref="char:EOLhyphen"/>spective Offices and places.</p>
+               <list>
+                  <label>6 <hi>Item,</hi> That there be al<g ref="char:EOLhyphen"/>so for the City of <hi>Bristoll,</hi>
+                  </label>
+                  <item>Commissioners.</item>
+                  <label>For the City of <hi>Exeter,</hi>
+                  </label>
+                  <item>Comissioners.</item>
+                  <label>For the Scity of <hi>Salisbury,</hi>
+                  </label>
+                  <item>Commissioners.</item>
+               </list>
+               <p>and in every County of this Kingdom of <hi>England,</hi> and Do<g ref="char:EOLhyphen"/>minion of <hi>Wales,</hi> now, or hereafter in obedience to His Ma<g ref="char:EOLhyphen"/>jesty, or in as many other Towns, Cities, and places as the said Lords and Commons, or such as they shall authorise thereunto, appoint to be nominated by the Kings Majesty. All which Commissioners within the respective places of their charge, shall take care of the Levying, Collecting, and Receiving of the said Excise, and of all the service thereunto a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pertaining, according to the purport of these Instructi<g ref="char:EOLhyphen"/>ons. And for the better effecting thereof shall have power to make Coll<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ctors, Registers, Clerks, Surveyors, Search<g ref="char:EOLhyphen"/>ers, and other inferiour Officer, fit and conveni<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt there<g ref="char:EOLhyphen"/>unto. And that in every of the said Cities and Counties, one of the said Commissioners shall be Treasurer to receive
+<pb n="10" facs="tcp:152978:10"/> all the Money within that City or County, and one other of them Comptroller thereof. That all the said Commis<g ref="char:EOLhyphen"/>sioners in the said severall and respective Cities and Coun<g ref="char:EOLhyphen"/>ties, shall have relation unto the said chief Commissioners of the Office of Excise, resident at <hi>Oxford,</hi> or elsewhere, as His Majesty shall appoint, as well in the due and orderly making up the money and accompts touching the pre<g ref="char:EOLhyphen"/>misses, as in observing and performing such further Orders and Directions, as from time to time they shall receive from the said chief Commissioners, for the good of this service, in pursuance of these Instructions; and all and every the respective Treasurers shall returne and pay all and every the severall Receipts, in their respective Cities and Coun<g ref="char:EOLhyphen"/>ties, unto the chief Treasurer and Comptroller resident, as aforesaid, at <hi>Oxford,</hi> as often as they shall be thereunto re<g ref="char:EOLhyphen"/>quired, by order from the said chief Treasurer and Comp<g ref="char:EOLhyphen"/>troller, whose respective Acquittances shall be a sufficient discharge to the said Treasurers, in the respective Counties in that behalf.</p>
+               <p n="7">7 <hi>Item,</hi> That the Collectors, Registers, Clerks, and all other inferiour Officers afore mentioned, shall have for the<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r paines and service, in and about the said businesse, such reasonable summe and summes of Money allowed and paid them, as the Commissioners in the severall and respective places, or the major part of them shall think fit, with the allowance and approbation of the Lords and Commons of Parliament assembled at <hi>Oxford,</hi> or such as shall be there<g ref="char:EOLhyphen"/>unto authorized by them.</p>
+               <p n="8">8 <hi>Item,</hi> That the said chief Commissioners, Treasurer, or Comptroller, or any of them, or any other Commissi<g ref="char:EOLhyphen"/>oners, Treasurer, or Deputy whatsoever, shall not issue or pay out any Moneys, raised, levyed, collected and return<g ref="char:EOLhyphen"/>ed to them for this Excise to any person, or persons what<g ref="char:EOLhyphen"/>so<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ver, but by order of the Lords and Commons of Par<g ref="char:EOLhyphen"/>liament here at <hi>Oxford</hi> assembled, or by such as they shall
+<pb n="11" facs="tcp:152978:10"/> for that purpose nominate, and appoint to give order and directions in the same.</p>
+               <p n="9">9 <hi>Item,</hi> That the severall Offices for this Excise, in all Cities, Counties, and places where this Office shall be kept upon all the week-dayes, (except the Lords-day, and also Holy dayes in the time of Divine Service,) from eight of the clock in the Morning, till twelve at noon: and from two of the clock in the afternoon till six in the Evening, for the entring and registring the names and sir-names, as well of the Seller, Buyers and Makers of the said severall Commodities in the said Schedule mentioned, and the se<g ref="char:EOLhyphen"/>verall quantities and values thereof, and for receiving of all Moneys which shall be due and payable for the Excise, and for other things necessary to be done touching the said bu<g ref="char:EOLhyphen"/>sinesse, which said Entries shall be made accordingly.</p>
+               <p n="10">10 <hi>Item,</hi> That all and every the Merchants and Import<g ref="char:EOLhyphen"/>ers of the said Forreign Commodities, in the said Schedule mentioned, and all others chargeable with the payment of this Excise for any the Commodities in the said Schedule mentioned, shall weekly cause to be entred in the said re<g ref="char:EOLhyphen"/>spective Offices, a true and perfect List and Accompt of all and every the said Commodities respectively, and shall not deliver any of the said commodities to any of the buyers thereof, or other person or persons (except Flesh for which the Butcher, seller, or spender is to be accomptable once a week,) and except such of the said commodities as shall by the Licence of the said respective Commissioners, or the major part of them, or such as they shall under their Hands and Seales thereunto appoint, be to be transported beyond the Seas) untill the same be so entred as aforesaid; And that no person or persons chargeable with the said Excise, shall sell or dispose of any of the said commodities, without first receiving a Ticket or Warrant from the said respective Officer or Officers, that the Excise due for the same is paid or so undertaken, and secured to be paid, as the
+<pb n="12" facs="tcp:152978:11"/> Commissioners, their Deputie or Deputies, or some, or one of them, shall therewith rest satisfied, which forbearance of present payment shall be onely for such reasonable time, or for such speciall causes as shall be lesse prejudiciall to the ex<g ref="char:EOLhyphen"/>pediting of the present service. And if any of the said c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m<g ref="char:EOLhyphen"/>modities chargeable with the Excise shall refuse or neglect to make a true entry thereof, as aforesaid, or shall do any thing contrary hereunto, the same being proved by oath of a credible witnesse, or confession of the party before the said Commissioners, or any one or more of them, shall for<g ref="char:EOLhyphen"/>feit the double value of the goods and commodities so by him or them neglected, to be entred or so delivered, sold, or disposed of, contrary to the purport and true intent of the premisses to the use of His Majesty to be disposed of, for support of His Majesties Armies, the same to be levyed by the said respective Commissioners, or Deputies, or such as they, or the major part of them shall appoint, by distresse and sa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e of the offenders goods, (if they shall not be redeem<g ref="char:EOLhyphen"/>ed within fourteen dayes) rendring to the party the over<g ref="char:EOLhyphen"/>plus: and for want of such sufficient distresse, all and every the said Commissioners and Deputies, or the major part of them respectively, or such as they shall appoint, shall have power to commit such offendor to prison till he pay the said forfeiture.</p>
+               <p n="11">11 <hi>Item,</hi> That no Merchant, Denizen, or Stranger, Ma<g ref="char:EOLhyphen"/>riner or other person whatsoever Importer of any goods or Merchandise into any the Ports of this Kingdom, or Do<g ref="char:EOLhyphen"/>minion of <hi>Wales,</hi> or shall discharge or land any goods or commodities before they shall have first given notice there<g ref="char:EOLhyphen"/>of to the Officers of Excise for that place, by delivery of a Bi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l of Entry under his Hand, specifying the said severall goods so imported, their quantities and qualities respe<g ref="char:EOLhyphen"/>ctively, under the penalties in the last precedent Article contained, and to be levyed in like manner.</p>
+               <p n="12">12 <hi>Item,</hi> That the said respective Commissioners, or the
+<pb n="13" facs="tcp:152978:11"/> major part of them, out ot the Forfeitures above mention<g ref="char:EOLhyphen"/>ed, are to give and allow to any person and persons which shall inform them of any abuse committed by any person or persons contrary to the tenor of these presents, so much money for his and their reward and recompence of his and their paines, as the said Commissioners, or the major part of them shall thinke fit, the same to be allowed unto the Commissioners upon their Accompts.</p>
+               <p n="13">13 <hi>Item,</hi> That the said Commissioners, or the major part of them, shall have power to punish all subordinate Of<g ref="char:EOLhyphen"/>ficers and Deputies of what ranke soever, belonging to the imployment of the Excise respectively, for their Offences in the execution of their services and imployments, by the forfeiture of their wages, and dismission out of the service, at their discretion.</p>
+               <p n="14">14 <hi>Item,</hi> That all His Maj<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sties Customers, Comptrol<g ref="char:EOLhyphen"/>lers, and other Ministers and Officers in the Sea-ports and places, shall from time to time permit and suffer the said re<g ref="char:EOLhyphen"/>spective Commissioners, or any of them, or any of their Deputy or Deputies, or such as they shal appoint to search, view, and examine any Note-book, Book, or Books, or o<g ref="char:EOLhyphen"/>ther Accompts belonging to the Custom-house, and to take Copies thereof, or of as much thereof as they please: and that the said Commissioners of Excise, or any of their De<g ref="char:EOLhyphen"/>puties shall have place to sit in every Custom-house, and shall have power by themselves or their Agents to take Notes or Copies of all Entries of goods and Merchandise imported, or to be imported from time to time.</p>
+               <p n="15">15 <hi>Item,</hi> That the said Commissioners and their Depu<g ref="char:EOLhyphen"/>ties, or any one of them respectively, shall at their discre<g ref="char:EOLhyphen"/>tions call before them any person or persons whom they shall think fit to inform and testifie touching the premisses, and to examine any such person (other then the party him<g ref="char:EOLhyphen"/>selfe) upon Oath, for the better discovery of any fraud or guile in the not <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ntring of any the said Commodities, or
+<pb n="14" facs="tcp:152978:12"/> not paying of the Excise according to the tenor hereof, and the testimony of one credible witnesse or confession of the party shall be sufficiently in that behalf.</p>
+               <p n="16">16 <hi>Item,</hi> That the said respective Commissioners, or the major part of them, shall from time to time appoint any Officer or Officers belonging to the Excise, to ent<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r in<g ref="char:EOLhyphen"/>to the Sellars, Shops, Ware-houses, Store-houses, or other places of every person or persons, that selleth, buy<g ref="char:EOLhyphen"/>eth, or spendeth any of the said Commodities in the said Schedule mentioned, to search and see what quantities of the said Commodities every or any such person hath in his hands, or any other person or persons to his use, and for the preventing of all fraud and abuses that may be used or practised to avoid the payment of the said Excise.</p>
+               <p n="17">17 <hi>Item,</hi> That all Sheriffes, Majors, Justices of Peace, Bay<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ffes, Constables, and other Officers and Ministers whatsoever, be from time to time aiding and assisting to all and every the said respective Commissioners and other Officers of Excise, and every of them, with due execution thereof, and of the Articles here contained: and that spe<g ref="char:EOLhyphen"/>ciall care be taken as well by the respective Commissioners, as the said Majors, Justices of the Peace, and other Officers whom it shall and may concern, that the Assizes of Beer, Ale, Wine, Bread, and other things be duly kept and ob<g ref="char:EOLhyphen"/>served, and the abuses therein punished, according to the Laws and Statutes in that behalf made; as they will an<g ref="char:EOLhyphen"/>swer the contrary at their perils.</p>
+               <p n="18">18 <hi>Item,</hi> That the respective Commissioners hereby ap<g ref="char:EOLhyphen"/>pointed, or as many of them as shall execute the same, shall have for th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ir paines and service therein, within their re<g ref="char:EOLhyphen"/>spective limits, six pence in the twenty shilling, that shall be raised and paid to the said Treasurers of Excise re<g ref="char:EOLhyphen"/>sp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ctively, hereby appointed to be amongst them the said Commissioners, Treasurer and Comptroller equally di<g ref="char:EOLhyphen"/>vided, the same to be allowed quarterly upon their Ac<g ref="char:EOLhyphen"/>compts,
+<pb n="15" facs="tcp:152978:12"/> without any further warrant: and the five chief Commissioners for the Excise shall be rewarded over and above the said six pence in the pound, as the Lords and Commons shall think meet, according to the merit of their service.</p>
+               <p n="19">19 <hi>Item,</hi> That no Person or Persons whatsoever, selling any Commodities hereby charged with Excise, shall take any more in the price thereof upon the sale or utterance of the said Commodities, then according to the usuall rates and prices appointed by Law for the same, (except onely the rate of the Excise) as they will answer the contrary at their perils.</p>
+               <p>And as touching all Woollen Draperies old and new, the Excise for the same is to be paid by the Shop-keeper, who Buyes the same to sell again.</p>
+               <p n="20">20 <hi>Item,</hi> That there be a present and due survey made of all goods whatsoever, charged with this Excise, now re<g ref="char:EOLhyphen"/>maining in any place whatsoever unsold or unretailed; and that the severall Persons in whose possession they are, do pay or give security to pay the Excise set upon them. <hi>Pro<g ref="char:EOLhyphen"/>vided</hi> alwayes, That since the way of this Excise is new, and the mischiefs, inconveniences, and disorders in setling the severall rates, levying the same, and imposing penalties in manner and form aforesaid, cannot be well foreseen, and at first prevented; His Majesty, by the advice and consent of the Lords and Commons of Parliament here Assem<g ref="char:EOLhyphen"/>bled at <hi>Oxfoxd,</hi> or of such Committee of the Members of both Houses, or the Major number of them as they shall appoint to that purpose, may from time to time, and at all times have Power to revoke or alter any of the Rates or Charges, or any part of them hereby imposed, or any of the Instructions, or any part of them before mentioned, and to adde such further Rates, or make such new Instru<g ref="char:EOLhyphen"/>ctions, and to increase or diminish allowances, and salle<g ref="char:EOLhyphen"/>ries as by the advice aforesaid shall be thought fit, for the
+<pb n="16" facs="tcp:152978:13"/> better execution, encouraging, and regulating of the same. And also with the Advice and Consent aforesaid, to take, call for, and examine all Accompts, to issue and disburse any Summe or Summes of Money, to displace or new ap<g ref="char:EOLhyphen"/>point Commissioners the Deputy or Deputies in the respe<g ref="char:EOLhyphen"/>ctive Counties, Cities, and places whatsoever, and to settle and decide all such differences, quarrels and debates, and to order, punish and correct all such faults, injuries and misdemeanors as shall happen to be committed in the exe<g ref="char:EOLhyphen"/>cution hereof, either in or between the Commissioners themselves, their Deputy or Deputies, or in, and betwen them or any of them, and all Commissioners and other persons whatsoever, are to be required and enjoyned to yeeld obedience and submission to all such further or other Orders, Directions, and Instructions as they shall receive from His Majesty, by the advice and consent aforesaid in the execution of the premisses, and every part thereof in any thing or things that may or shall conduce to the better ordering, government, and execution of the same.</p>
+               <p>Provided also, for the better ease and conveniency of all such of His Majesties Subjects, who are Masters and Go<g ref="char:EOLhyphen"/>vernors of private Families, the Commissioners in their re<g ref="char:EOLhyphen"/>spective Counties and places of imployment, their Deputy or Deputies, or any two or more of them within their re<g ref="char:EOLhyphen"/>spective Divisions, shall have power to compound and a<g ref="char:EOLhyphen"/>gree with such persons, and every of them, for a weekly payment of a certain summe of Money in grosse, in lieu and full satisfaction of all the Rates hereby imposed upon such Commodities as shall be killed, raised, or made in the said private Famil<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es, to be spent within the same for their own use, and not for sale, if they desire the same.</p>
+            </div>
+         </div>
+         <div type="oath">
+            <pb n="17" facs="tcp:152978:13"/>
+            <head>
+               <hi>The Forme of the OATH.</hi> To the Commissioners, their Deputie, or Deputies, or all other Officers.</head>
+            <p>
+               <seg rend="decorInit">Y</seg>Ou shall sweare to be faith<g ref="char:EOLhyphen"/>full and true to Our Sove<g ref="char:EOLhyphen"/>raign Lord the King, His Heirs, and Successours, and in your Office or Place as a Commissioner for the Excise, during the time you shall be a Commissioner, you shall according to the authority and di<g ref="char:EOLhyphen"/>rections given you, or to be given you by His Majestie, by advice of the Lords and Commons of Parliament assembled at <hi>Oxford,</hi> and according to your best knowledge execute the same diligently
+<pb n="18" facs="tcp:152978:14"/> and faithfully, having no private respect in prejudice of this present Service; you shall make and deliver a true accompt of all the Receipts and Disbursements to the Lords and Commons of Parliament as<g ref="char:EOLhyphen"/>sembled at <hi>Oxford,</hi> or to such as they shall appoint. <hi>So help you God</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:152978:14"/>
+         </div>
+      </body>
+   </text>
+</TEI>
